@@ -1,0 +1,168 @@
+body {
+  padding-top: 45px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 35px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.navbar
+{
+  border: 0 none;
+  min-height: 20px;
+}
+.navbar-inverse
+{
+  background-color: #fda8bb;
+  background-image: none;
+  z-index: 2;
+}
+
+.navbar-right li a
+{
+  padding: 13px 8px;
+  opacity: 0.5;
+}
+.navbar-right li a:hover
+{
+  opacity: 1;
+}
+.navbar-inverse li
+{
+    margin: 0 5px;
+}
+.navbar-right li
+{
+    margin: 0;
+}
+.navbar-inverse a
+{
+  font-size: 14px;
+  color: #ffffff !important;
+}
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover
+{
+  background-color: #ffffff;
+  color: #f56e99 !important;
+  background-image: none;
+  box-shadow: 0 0 0;
+  -webkit-box-shadow: 0 0 0;
+}
+.navbar-inverse a:hover
+{
+  background-color: #ffffff !important;
+  color: #f56e99 !important;
+  background-image: none;
+  box-shadow: 0 0 0;
+  -webkit-box-shadow: 0 0 0;
+}
+.navbar-right a:hover
+{
+  background-color: transparent !important;
+  cursor: pointer;
+} 
+h1
+{
+  text-align: center;
+  margin: 30px 0;
+}
+h1 img
+{
+   max-width:100% !important;
+   height:auto;
+}
+h2, h3, h4
+{
+  font-family: gabriola;
+  font-size: 28px;
+  color: #365e8f;
+}
+h3
+{
+  font-size: 20px;
+}
+.posts p
+{
+  font-size: 12px;
+}
+.btn-lindoceu
+{
+ background-image: none;
+ color: #fff;
+ background-color: #365e8f;
+ border: 1px solid #365e8f;
+}
+.btn-lindoceu:hover
+{
+ background-color: #ffffff;
+ border: 1px solid #365e8f;
+ color: #365e8f;
+}
+.carousel
+{
+  margin: 0 0 70px 0;
+}
+.carousel-indicators
+{
+  z-index: 1;
+}
+.cd-testimonials-item
+{
+  list-style-type: none;
+}
+/*.depoimentos
+{
+  height: 245px;
+}
+.depoimentos .carousel-inner
+{
+  height: 245px;	
+}
+.depoimentos .carousel-caption
+{
+  bottom: 85px;	
+}
+.depoimentos .carousel-control.left, 
+.depoimentos .carousel-control.right
+{
+  background-image: none;
+}*/
+hr
+{
+    border-top: 2px dotted #ffa6bf;
+}
+.divulgablogcanal img
+{
+  opacity: 0.5;
+}
+.divulgablogcanal:hover img
+{
+  opacity: 1;
+}
+/*
+ * Footer
+ */
+
+.blog-footer {
+    padding: 20px 0;
+    color: #999;
+    background-color: #f9f9f9;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 70px 0 0 0;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
