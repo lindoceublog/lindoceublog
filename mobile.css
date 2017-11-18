@@ -1,3 +1,21 @@
 .container {
   width: 96%;
 }
+.blog-footer {
+    border-top: 2px solid #f085a4;
+}
+.minhas-redes-sociais {
+    margin: -16px auto 0;
+}
+.minhas-redes-sociais a {
+width: 30px;
+    height: 30px;
+    line-height: 25px;
+    font-size: 1.15em;
+    margin: 0 5px;
+    display: inline-block;
+    background: #fff;
+    color: #f085a4;
+    border: 2px solid #f085a4;
+    border-radius: 50%;
+}
